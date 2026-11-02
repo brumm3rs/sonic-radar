@@ -3,12 +3,69 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-02T19:35:00+01:00",
-    "sourcesChecked": 9,
-    "mode": "curated cross-border seed",
-    "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page."
+    "updatedAt": "2026-11-02T21:31:44+00:00",
+    "sourcesChecked": 3,
+    "mode": "automated scan",
+    "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
+    "scanStatus": "partial",
+    "scanErrors": [
+      {
+        "source": "nieuwe-nor",
+        "error": "403 Client Error: Forbidden for url: https://nieuwenor.nl/programma"
+      }
+    ]
   },
   "events": [
+    {
+      "id": "scan-93376201c93f2",
+      "title": "Moreish Idols",
+      "date": "2026-11-05",
+      "time": "20:30",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "post-punk",
+        "alternative rock"
+      ],
+      "artists": [
+        "Moreish Idols"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/moreish-idols",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "scan-b9e9b65e7ff5c",
+      "title": "Electric Eel Shock",
+      "date": "2026-11-06",
+      "time": "20:30",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "post-punk",
+        "garage rock"
+      ],
+      "artists": [
+        "Electric Eel Shock"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/electric-eel-shock",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
     {
       "id": "molten-universe-festival-aachen-2026-11-07",
       "title": "Molten Universe Festival Vol. 3",
@@ -44,6 +101,57 @@
       "firstSeen": "2026-11-02",
       "lastVerified": "2026-11-02",
       "palette": "rust"
+    },
+    {
+      "id": "scan-b226f62637063",
+      "title": "wilt",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "shoegaze",
+        "noise rock",
+        "grunge",
+        "indie"
+      ],
+      "artists": [
+        "wilt"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/wilt",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "scan-e3e56df0c20fc",
+      "title": "Convicts Invite",
+      "date": "2026-11-07",
+      "time": "23:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "trance",
+      "styles": [
+        "hard house"
+      ],
+      "artists": [
+        "Convicts Invite"
+      ],
+      "type": "club",
+      "url": "https://effenaar.nl/agenda/convicts-invite",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
     },
     {
       "id": "midwife-devin-shaffer-2026-11-10",
@@ -140,35 +248,6 @@
       "price": "€5"
     },
     {
-      "id": "turpentine-valey-ka-una-2026-11-12",
-      "title": "Turpentine Valey & Ka'Una",
-      "date": "2026-11-12",
-      "time": "20:00",
-      "city": "Heerlen",
-      "venue": "Nieuwe Nor",
-      "category": "rock",
-      "styles": [
-        "post-rock",
-        "post-metal"
-      ],
-      "artists": [
-        "Turpentine Valey",
-        "Ka'Una"
-      ],
-      "url": "https://nieuwenor.nl/programma/2026/11/12/sagor-som-leder-mot-slutet-turpentine-valley",
-      "status": "on-sale",
-      "type": "gig",
-      "note": "Atmospheric, heavy guitar textures.",
-      "source": "Nieuwe Nor",
-      "country": "NL",
-      "curated": true,
-      "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-02",
-      "fit": "HER NEW KNIFE",
-      "why": "Layered, textural guitar music with a heavy post-rock edge; less hook-driven, more cinematic.",
-      "palette": "silver"
-    },
-    {
       "id": "water-damage-aachen-2026-11-12",
       "title": "Water Damage",
       "date": "2026-11-12",
@@ -198,6 +277,107 @@
       "firstSeen": "2026-11-02",
       "lastVerified": "2026-11-02",
       "palette": "silver"
+    },
+    {
+      "id": "turpentine-valey-ka-una-2026-11-12",
+      "title": "Turpentine Valey & Ka'Una",
+      "date": "2026-11-12",
+      "time": "20:00",
+      "city": "Heerlen",
+      "venue": "Nieuwe Nor",
+      "category": "rock",
+      "styles": [
+        "post-rock",
+        "post-metal"
+      ],
+      "artists": [
+        "Turpentine Valey",
+        "Ka'Una"
+      ],
+      "url": "https://nieuwenor.nl/programma/2026/11/12/sagor-som-leder-mot-slutet-turpentine-valley",
+      "status": "on-sale",
+      "type": "gig",
+      "note": "Atmospheric, heavy guitar textures.",
+      "source": "Nieuwe Nor",
+      "country": "NL",
+      "curated": true,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02",
+      "fit": "HER NEW KNIFE",
+      "why": "Layered, textural guitar music with a heavy post-rock edge; less hook-driven, more cinematic.",
+      "palette": "silver"
+    },
+    {
+      "id": "scan-9c69bae0c6c15",
+      "title": "Prins S. en De Geit",
+      "date": "2026-11-12",
+      "time": "20:15",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "trance",
+      "styles": [
+        "trance"
+      ],
+      "artists": [
+        "Prins S. en De Geit"
+      ],
+      "type": "club",
+      "url": "https://effenaar.nl/agenda/prins-s-geit-12nov",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "scan-e649b3670b3b3",
+      "title": "Gallowstreet",
+      "date": "2026-11-13",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "Gallowstreet"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/gallowstreet-13nov",
+      "status": "low-tickets",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "scan-e8fa9a6e39253",
+      "title": "Tusky",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "post-punk"
+      ],
+      "artists": [
+        "Tusky"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/tusky-13nov",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
     },
     {
       "id": "acid-invaderz-iii-aachen-2026-11-13",
@@ -329,6 +509,60 @@
       "palette": "violet"
     },
     {
+      "id": "scan-f996463e4e8b5",
+      "title": "Ash",
+      "date": "2026-11-15",
+      "time": "20:15",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "post-punk",
+        "alternative rock",
+        "indie"
+      ],
+      "artists": [
+        "Ash"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/ash",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "the-vintage-caravan-2026-11-17",
+      "title": "The Vintage Caravan",
+      "date": "2026-11-17",
+      "time": "20:00",
+      "city": "Heerlen",
+      "venue": "Nieuwe Nor",
+      "category": "rock",
+      "styles": [
+        "psychedelic rock",
+        "stoner rock"
+      ],
+      "artists": [
+        "The Vintage Caravan"
+      ],
+      "url": "https://nieuwenor.nl/programma/2026/11/17/the-vintage-caravan",
+      "status": "on-sale",
+      "type": "gig",
+      "note": "Fuzzy, heavy psych-rock for the QOTSA side of your taste.",
+      "source": "Nieuwe Nor",
+      "country": "NL",
+      "curated": true,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02",
+      "fit": "QOTSA",
+      "why": "Fuzz-forward psychedelic riffs and roaming grooves. A strong route into the desert-rock side of QOTSA.",
+      "palette": "rust"
+    },
+    {
       "id": "get-well-decasino-2026-11-17",
       "title": "Get Well · Sin City Burning",
       "date": "2026-11-17",
@@ -359,32 +593,52 @@
       "price": "€5"
     },
     {
-      "id": "the-vintage-caravan-2026-11-17",
-      "title": "The Vintage Caravan",
-      "date": "2026-11-17",
+      "id": "scan-b37c2e70a7c70",
+      "title": "Hiigo",
+      "date": "2026-11-20",
       "time": "20:00",
-      "city": "Heerlen",
-      "venue": "Nieuwe Nor",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
       "category": "rock",
       "styles": [
-        "psychedelic rock",
-        "stoner rock"
+        "indie"
       ],
       "artists": [
-        "The Vintage Caravan"
+        "Hiigo"
       ],
-      "url": "https://nieuwenor.nl/programma/2026/11/17/the-vintage-caravan",
-      "status": "on-sale",
       "type": "gig",
-      "note": "Fuzzy, heavy psych-rock for the QOTSA side of your taste.",
-      "source": "Nieuwe Nor",
-      "country": "NL",
-      "curated": true,
+      "url": "https://effenaar.nl/agenda/hiigo",
+      "status": "low-tickets",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-02",
-      "fit": "QOTSA",
-      "why": "Fuzz-forward psychedelic riffs and roaming grooves. A strong route into the desert-rock side of QOTSA.",
-      "palette": "rust"
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "scan-4709336ae51fe",
+      "title": "MEROL",
+      "date": "2026-11-20",
+      "time": "20:15",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "techno",
+      "styles": [
+        "techno"
+      ],
+      "artists": [
+        "MEROL"
+      ],
+      "type": "club",
+      "url": "https://effenaar.nl/agenda/merol",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
     },
     {
       "id": "altruism-label-night-onlynumbers-toxic-machinery-slvl-ush-2026-11-21",
@@ -452,6 +706,82 @@
       "price": "€5 original price"
     },
     {
+      "id": "scan-e6945e0189c29",
+      "title": "Kaat van Stralen",
+      "date": "2026-11-26",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "Kaat van Stralen"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/kaat-van-stralen",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "she-past-away-2026-11-27",
+      "title": "She Past Away",
+      "date": "2026-11-27",
+      "time": "19:00",
+      "city": "Heerlen",
+      "venue": "Nieuwe Nor",
+      "category": "rock",
+      "styles": [
+        "post-punk",
+        "darkwave"
+      ],
+      "artists": [
+        "She Past Away"
+      ],
+      "url": "https://nieuwenor.nl/programma/2026/11/27/she-past-away",
+      "status": "on-sale",
+      "type": "gig",
+      "note": "Dark, hypnotic post-punk and cold-wave tension.",
+      "source": "Nieuwe Nor",
+      "country": "NL",
+      "curated": true,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02",
+      "fit": "PIXIES",
+      "why": "Guitar-driven post-punk atmosphere, but darker and synthier than Pixies. More mood than abrasion.",
+      "palette": "silver"
+    },
+    {
+      "id": "scan-7d22fc2a003e2",
+      "title": "Jack and the Weatherman",
+      "date": "2026-11-27",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "Jack and the Weatherman"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/jack-weatherman",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
       "id": "claydrum-nico-moreno-carla-schmitt-melvin-spix-2026-11-27",
       "title": "Claydrum: Nico Moreno / Carla Schmitt / Melvin Spix",
       "date": "2026-11-27",
@@ -511,34 +841,6 @@
       "palette": "violet"
     },
     {
-      "id": "she-past-away-2026-11-27",
-      "title": "She Past Away",
-      "date": "2026-11-27",
-      "time": "19:00",
-      "city": "Heerlen",
-      "venue": "Nieuwe Nor",
-      "category": "rock",
-      "styles": [
-        "post-punk",
-        "darkwave"
-      ],
-      "artists": [
-        "She Past Away"
-      ],
-      "url": "https://nieuwenor.nl/programma/2026/11/27/she-past-away",
-      "status": "on-sale",
-      "type": "gig",
-      "note": "Dark, hypnotic post-punk and cold-wave tension.",
-      "source": "Nieuwe Nor",
-      "country": "NL",
-      "curated": true,
-      "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-02",
-      "fit": "PIXIES",
-      "why": "Guitar-driven post-punk atmosphere, but darker and synthier than Pixies. More mood than abrasion.",
-      "palette": "silver"
-    },
-    {
       "id": "unwind-unbroken-2026-11-27",
       "title": "UNWIND: UNBROKEN",
       "date": "2026-11-27",
@@ -592,7 +894,7 @@
         "Oniver"
       ],
       "url": "https://complexmaastricht.nl/agenda/hotline-28-11-26",
-      "status": "low-tickets",
+      "status": "on-sale",
       "type": "club",
       "note": "Peak-time trance and hard house with a fast groove.",
       "source": "Complex",
@@ -664,6 +966,30 @@
       "firstSeen": "2026-11-02",
       "lastVerified": "2026-11-02",
       "palette": "rust"
+    },
+    {
+      "id": "scan-dd276e7eb58dd",
+      "title": "Belle &amp; Sebastian",
+      "date": "2026-12-07",
+      "time": "19:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "Belle &amp; Sebastian"
+      ],
+      "type": "gig",
+      "url": "https://muziekgieterij.nl/event/belle-sebastian-2026-12-07/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
     },
     {
       "id": "internet-girl-trix-2026-12-09",
@@ -802,7 +1128,7 @@
         "Lola Edo"
       ],
       "url": "https://complexmaastricht.nl/agenda/complex-18-12-26",
-      "status": "low-tickets",
+      "status": "sold-out",
       "type": "gig",
       "note": "High-energy club crossover, more house-led.",
       "source": "Complex",
@@ -842,6 +1168,30 @@
       "fit": "UNWIND",
       "why": "Another night by the UNWIND promoter. Check the organizer for the live-only lineup and updated ticket details.",
       "palette": "violet"
+    },
+    {
+      "id": "scan-ccc039979127e",
+      "title": "Black Box Revelation",
+      "date": "2027-01-23",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "artist match"
+      ],
+      "artists": [
+        "Black Box Revelation"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/black-box-revelation",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
     },
     {
       "id": "gallus-2027-01-28",
@@ -899,6 +1249,31 @@
       "fit": "PIXIES",
       "why": "Baggy/alternative rock history and unruly guitars rather than shoegaze; adjacent to your classic alt-rock reference.",
       "palette": "cobalt"
+    },
+    {
+      "id": "scan-b78448e987e9e",
+      "title": "HOTLINE presents 2HOT2PLAY / NYCO / Coûteux",
+      "date": "2027-02-19",
+      "time": "23:00",
+      "city": "Maastricht",
+      "venue": "Complex",
+      "country": "NL",
+      "category": "trance",
+      "styles": [
+        "hard house",
+        "trance"
+      ],
+      "artists": [
+        "HOTLINE presents 2HOT2PLAY / NYCO / Coûteux"
+      ],
+      "type": "club",
+      "url": "https://complexmaastricht.nl/agenda/hotline-19-02-27",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Complex",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
     },
     {
       "id": "bettie-serveert-2027-02-20",
@@ -1187,6 +1562,54 @@
       "price": "€26"
     },
     {
+      "id": "scan-2607d17b4235f",
+      "title": "Mistress of Jersey + Curtis + 80's Anders",
+      "date": "2027-04-03",
+      "time": "20:15",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "post-punk"
+      ],
+      "artists": [
+        "Mistress of Jersey + Curtis + 80's Anders"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/mistress-jersey-curtis-80s-anders",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
+      "id": "scan-8e2b56f72c0ce",
+      "title": "High Fade",
+      "date": "2027-04-18",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "High Fade"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/high-fade",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
+    },
+    {
       "id": "complex-festival-2027-2027-07-24",
       "title": "Complex Festival 2027",
       "date": "2027-07-24",
@@ -1271,6 +1694,30 @@
       "why": "Alternative festival date announced. The lineup has not been established in this feed—artist match is unconfirmed.",
       "palette": "cobalt",
       "lineupPending": true
+    },
+    {
+      "id": "scan-8e84eb0c308b7",
+      "title": "The Devout - Depeche Mode tribute",
+      "date": "2027-10-20",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "post-punk"
+      ],
+      "artists": [
+        "The Devout - Depeche Mode tribute"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/devout-depeche-mode-tribute",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-02"
     }
   ]
 }
