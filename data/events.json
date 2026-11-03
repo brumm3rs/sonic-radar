@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-03T01:36:46+00:00",
+    "updatedAt": "2026-11-03T13:37:53+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -1249,6 +1249,30 @@
       "fit": "PIXIES",
       "why": "Baggy/alternative rock history and unruly guitars rather than shoegaze; adjacent to your classic alt-rock reference.",
       "palette": "cobalt"
+    },
+    {
+      "id": "scan-ffd0f251466b8",
+      "title": "Zornik",
+      "date": "2027-02-13",
+      "time": "19:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "Zornik"
+      ],
+      "type": "gig",
+      "url": "https://muziekgieterij.nl/event/zornik-2027-02-13/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-03",
+      "lastVerified": "2026-11-03"
     },
     {
       "id": "scan-b78448e987e9e",
