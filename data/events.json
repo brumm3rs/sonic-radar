@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-03T13:37:53+00:00",
+    "updatedAt": "2026-11-04T01:35:43+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -39,7 +39,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "scan-b9e9b65e7ff5c",
@@ -64,7 +64,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "molten-universe-festival-aachen-2026-11-07",
@@ -127,7 +127,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "scan-e3e56df0c20fc",
@@ -151,7 +151,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "midwife-devin-shaffer-2026-11-10",
@@ -329,7 +329,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "scan-e649b3670b3b3",
@@ -353,7 +353,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "scan-e8fa9a6e39253",
@@ -377,7 +377,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "acid-invaderz-iii-aachen-2026-11-13",
@@ -503,7 +503,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "UNWIND",
       "why": "Hard-edged, underground techno lineage. Less modern schranz than UNWIND, with more classic Detroit tension.",
       "palette": "violet"
@@ -532,7 +532,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "the-vintage-caravan-2026-11-17",
@@ -614,7 +614,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "scan-4709336ae51fe",
@@ -638,7 +638,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "altruism-label-night-onlynumbers-toxic-machinery-slvl-ush-2026-11-21",
@@ -668,7 +668,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "UNWIND",
       "why": "Onlynumbers, Toxic Machinery, SLVL and USH deliver the punishing industrial/hard-techno pressure you want from UNWIND.",
       "palette": "violet",
@@ -727,7 +727,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "she-past-away-2026-11-27",
@@ -779,7 +779,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "claydrum-nico-moreno-carla-schmitt-melvin-spix-2026-11-27",
@@ -806,7 +806,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "UNWIND",
       "why": "Nico Moreno’s peak-time, kick-heavy hard techno lands squarely in the UNWIND pressure zone.",
       "palette": "violet"
@@ -876,6 +876,55 @@
       "palette": "violet"
     },
     {
+      "id": "scan-62f881f6bf231",
+      "title": "Ão",
+      "date": "2026-11-28",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "grunge",
+        "indie"
+      ],
+      "artists": [
+        "Ão"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/ao",
+      "status": "sold-out",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-04",
+      "lastVerified": "2026-11-04"
+    },
+    {
+      "id": "scan-4a31ab6869859",
+      "title": "Kingfishr",
+      "date": "2026-11-28",
+      "time": "20:15",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "Kingfishr"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/kingfishr",
+      "status": "sold-out",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-04",
+      "lastVerified": "2026-11-04"
+    },
+    {
       "id": "hotline-lisa-korver-paige-tomlinson-2026-11-28",
       "title": "HOTLINE: Lisa Korver & Paige Tomlinson",
       "date": "2026-11-28",
@@ -901,7 +950,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "ARMAN JOHN",
       "why": "Bouncy trance/hard-house and high-energy club grooves. More playful and less punishing than the hard-techno nights.",
       "palette": "peach"
@@ -989,7 +1038,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "internet-girl-trix-2026-12-09",
@@ -1074,7 +1123,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "ARMAN JOHN",
       "why": "A dedicated trance / hard-house / groove night with the bouncing energy of Arman John’s club sets.",
       "palette": "peach"
@@ -1135,7 +1184,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "ARMAN JOHN",
       "why": "A looser crossover: Mall Grab leans house/techno rather than Arman John’s faster acid-trance sound.",
       "palette": "peach",
@@ -1191,7 +1240,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "gallus-2027-01-28",
@@ -1216,7 +1265,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "PIXIES",
       "why": "Angular garage punk with direct, wiry live energy. A punchier fit for the Pixies side of your taste.",
       "palette": "cobalt"
@@ -1272,7 +1321,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-03",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "scan-b78448e987e9e",
@@ -1297,7 +1346,7 @@
       "source": "Complex",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "bettie-serveert-2027-02-20",
@@ -1322,7 +1371,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-04",
       "fit": "PIXIES",
       "why": "90s indie and loud–quiet alternative songwriting. Similar era and guitar energy to your Pixies reference.",
       "palette": "cobalt"
@@ -1607,7 +1656,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-03"
+      "lastVerified": "2026-11-04"
     },
     {
       "id": "scan-8e2b56f72c0ce",
