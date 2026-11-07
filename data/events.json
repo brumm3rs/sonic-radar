@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-07T01:31:59+00:00",
+    "updatedAt": "2026-11-07T13:24:48+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -559,7 +559,7 @@
       ],
       "type": "gig",
       "url": "https://effenaar.nl/agenda/hiigo",
-      "status": "low-tickets",
+      "status": "sold-out",
       "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
       "source": "Effenaar",
       "curated": false,
@@ -1216,6 +1216,30 @@
       "fit": "UNWIND",
       "why": "Another night by the UNWIND promoter. Check the organizer for the live-only lineup and updated ticket details.",
       "palette": "violet"
+    },
+    {
+      "id": "scan-4c76b8c08e1c4",
+      "title": "J. Bernardt",
+      "date": "2027-01-22",
+      "time": "19:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "J. Bernardt"
+      ],
+      "type": "gig",
+      "url": "https://muziekgieterij.nl/event/j-bernardt-2027-01-22/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-07",
+      "lastVerified": "2026-11-07"
     },
     {
       "id": "scan-ccc039979127e",
