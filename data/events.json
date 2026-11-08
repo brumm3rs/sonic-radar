@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-08T01:40:40+00:00",
+    "updatedAt": "2026-11-08T13:24:12+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -454,6 +454,30 @@
       "palette": "cobalt",
       "doors": "19:00",
       "price": "€5"
+    },
+    {
+      "id": "scan-0cf4c8604833a",
+      "title": "mustbejohn / Chimer / only tears",
+      "date": "2026-11-19",
+      "time": "19:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "mustbejohn / Chimer / only tears"
+      ],
+      "type": "gig",
+      "url": "https://muziekgieterij.nl/event/mustbejohn-chimer-only-tears-2026-11-19/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-08",
+      "lastVerified": "2026-11-08"
     },
     {
       "id": "scan-b37c2e70a7c70",
