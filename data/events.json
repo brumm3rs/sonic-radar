@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-11T01:34:54+00:00",
+    "updatedAt": "2026-11-11T13:43:02+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -148,7 +148,7 @@
       ],
       "type": "gig",
       "url": "https://effenaar.nl/agenda/gallowstreet-13nov",
-      "status": "low-tickets",
+      "status": "sold-out",
       "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
       "source": "Effenaar",
       "curated": false,
@@ -1521,7 +1521,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-10"
+      "lastVerified": "2026-11-11"
     },
     {
       "id": "black-box-revelation-2027-03-20",
