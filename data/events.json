@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-14T13:25:12+00:00",
+    "updatedAt": "2026-11-15T01:42:40+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -16,65 +16,6 @@
     ]
   },
   "events": [
-    {
-      "id": "friday-2026-11-14",
-      "title": "FRIDAY",
-      "date": "2026-11-14",
-      "time": "20:00",
-      "city": "Heerlen",
-      "venue": "Nieuwe Nor",
-      "category": "rock",
-      "styles": [
-        "indie rock",
-        "alternative"
-      ],
-      "artists": [
-        "FRIDAY"
-      ],
-      "url": "https://nieuwenor.nl/programma/2026/11/14/friday",
-      "status": "on-sale",
-      "type": "gig",
-      "note": "Left-field indie-rock from the Dutch scene.",
-      "source": "Nieuwe Nor",
-      "country": "NL",
-      "curated": true,
-      "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-02",
-      "fit": "PIXIES",
-      "why": "A broad indie-rock connection rather than a direct noise-rock match. Explore if you want a less abrasive guitar night.",
-      "palette": "cobalt"
-    },
-    {
-      "id": "link-dave-clarke-dj-hell-pierre-dany-rodriguez-2026-11-14",
-      "title": "LINK: Dave Clarke / DJ Hell / Pierre & Dany Rodriguez",
-      "date": "2026-11-14",
-      "time": "22:30",
-      "city": "Maastricht",
-      "venue": "Muziekgieterij",
-      "category": "techno",
-      "styles": [
-        "techno",
-        "detroit techno"
-      ],
-      "artists": [
-        "Dave Clarke",
-        "DJ Hell",
-        "Pierre",
-        "Dany Rodriguez"
-      ],
-      "url": "https://muziekgieterij.nl/event/link-w-dave-clarke-dj-hell-pierre-dany-rodriguez-2026-11-14/",
-      "status": "on-sale",
-      "type": "gig",
-      "note": "An uncompromising night of techno legends.",
-      "source": "Muziekgieterij",
-      "country": "NL",
-      "curated": true,
-      "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
-      "fit": "UNWIND",
-      "why": "Hard-edged, underground techno lineage. Less modern schranz than UNWIND, with more classic Detroit tension.",
-      "palette": "violet"
-    },
     {
       "id": "scan-f996463e4e8b5",
       "title": "Ash",
@@ -99,7 +40,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "the-vintage-caravan-2026-11-17",
@@ -182,7 +123,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-12",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-3cf91cc33b104",
@@ -206,7 +147,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-10",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-0cf4c8604833a",
@@ -230,7 +171,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-08",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-b37c2e70a7c70",
@@ -254,7 +195,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-4709336ae51fe",
@@ -278,7 +219,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "altruism-label-night-onlynumbers-toxic-machinery-slvl-ush-2026-11-21",
@@ -308,7 +249,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "UNWIND",
       "why": "Onlynumbers, Toxic Machinery, SLVL and USH deliver the punishing industrial/hard-techno pressure you want from UNWIND.",
       "palette": "violet",
@@ -367,7 +308,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "she-past-away-2026-11-27",
@@ -419,7 +360,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "claydrum-nico-moreno-carla-schmitt-melvin-spix-2026-11-27",
@@ -446,7 +387,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "UNWIND",
       "why": "Nico Moreno’s peak-time, kick-heavy hard techno lands squarely in the UNWIND pressure zone.",
       "palette": "violet"
@@ -538,7 +479,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-04",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-4a31ab6869859",
@@ -562,7 +503,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-04",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "hotline-lisa-korver-paige-tomlinson-2026-11-28",
@@ -590,7 +531,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "ARMAN JOHN",
       "why": "Bouncy trance/hard-house and high-energy club grooves. More playful and less punishing than the hard-techno nights.",
       "palette": "peach"
@@ -619,7 +560,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "HER NEW KNIFE",
       "why": "A softer dream-pop/indie detour if you like the melodic fog more than the distorted edges.",
       "palette": "silver"
@@ -647,7 +588,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "kadavar-aachen-2026-12-06",
@@ -703,7 +644,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "internet-girl-trix-2026-12-09",
@@ -812,7 +753,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "ARMAN JOHN",
       "why": "A dedicated trance / hard-house / groove night with the bouncing energy of Arman John’s club sets.",
       "palette": "peach"
@@ -873,7 +814,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "ARMAN JOHN",
       "why": "A looser crossover: Mall Grab leans house/techno rather than Arman John’s faster acid-trance sound.",
       "palette": "peach",
@@ -929,7 +870,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-ccc039979127e",
@@ -953,7 +894,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "gallus-2027-01-28",
@@ -978,7 +919,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "PIXIES",
       "why": "Angular garage punk with direct, wiry live energy. A punchier fit for the Pixies side of your taste.",
       "palette": "cobalt"
@@ -1007,10 +948,34 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "PIXIES",
       "why": "Baggy/alternative rock history and unruly guitars rather than shoegaze; adjacent to your classic alt-rock reference.",
       "palette": "cobalt"
+    },
+    {
+      "id": "scan-a5b60d423cd9f",
+      "title": "Deftones, Nine Inch Nails, Korn &amp; Marilyn Manson",
+      "date": "2027-01-29",
+      "time": "19:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "techno",
+      "styles": [
+        "industrial"
+      ],
+      "artists": [
+        "Deftones, Nine Inch Nails, Korn &amp; Marilyn Manson"
+      ],
+      "type": "club",
+      "url": "https://muziekgieterij.nl/event/deftones-nine-inch-nails-korn-marilyn-manson-2027-01-29/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-15",
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-ffd0f251466b8",
@@ -1059,7 +1024,7 @@
       "source": "Complex",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "bettie-serveert-2027-02-20",
@@ -1084,7 +1049,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "PIXIES",
       "why": "90s indie and loud–quiet alternative songwriting. Similar era and guitar energy to your Pixies reference.",
       "palette": "cobalt"
@@ -1197,7 +1162,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "HER NEW KNIFE",
       "why": "Dreamy shoegaze guitar washes and melancholy; a prettier, less abrasive cousin of Her New Knife.",
       "palette": "silver"
@@ -1256,7 +1221,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "PIXIES",
       "why": "Restless post-punk, jagged guitar attacks and immediate garage-rock energy.",
       "palette": "cobalt"
@@ -1284,7 +1249,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14",
+      "lastVerified": "2026-11-15",
       "fit": "PIXIES",
       "why": "Shapeshifting indie / alternative rock with unexpected changes in energy and structure.",
       "palette": "cobalt"
@@ -1313,7 +1278,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "black-box-revelation-2027-03-20",
@@ -1395,7 +1360,32 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-14"
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "scan-518f83cf06a0c",
+      "title": "Rue Oberkampf",
+      "date": "2027-04-15",
+      "time": "20:00",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "post-metal",
+        "darkwave"
+      ],
+      "artists": [
+        "Rue Oberkampf"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/rue-oberkampf-15apr",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-15",
+      "lastVerified": "2026-11-15"
     },
     {
       "id": "scan-8e2b56f72c0ce",
