@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-17T01:47:11+00:00",
+    "updatedAt": "2026-11-17T13:45:06+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -1410,6 +1410,31 @@
       "curated": false,
       "firstSeen": "2026-11-02",
       "lastVerified": "2026-11-03"
+    },
+    {
+      "id": "scan-e7e3781465591",
+      "title": "bdrmm",
+      "date": "2027-05-17",
+      "time": "18:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "shoegaze",
+        "indie"
+      ],
+      "artists": [
+        "bdrmm"
+      ],
+      "type": "gig",
+      "url": "https://muziekgieterij.nl/event/bdrmm-2027-05-17/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-17",
+      "lastVerified": "2026-11-17"
     },
     {
       "id": "complex-festival-2027-2027-07-24",
