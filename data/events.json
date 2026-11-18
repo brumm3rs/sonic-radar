@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-18T01:51:03+00:00",
+    "updatedAt": "2026-11-18T13:46:07+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -812,6 +812,30 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-07",
+      "lastVerified": "2026-11-18"
+    },
+    {
+      "id": "scan-5c696c0c0c6a0",
+      "title": "80&#8217;s Verantwoord",
+      "date": "2027-01-23",
+      "time": "20:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "80&#8217;s Verantwoord"
+      ],
+      "type": "gig",
+      "url": "https://muziekgieterij.nl/event/80s-verantwoord-2027-01-23/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-18",
       "lastVerified": "2026-11-18"
     },
     {
