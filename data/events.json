@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-19T01:47:28+00:00",
+    "updatedAt": "2026-11-19T13:47:51+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -1277,6 +1277,30 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
+      "lastVerified": "2026-11-19"
+    },
+    {
+      "id": "scan-5f0cf2ca180d3",
+      "title": "BEATLES Complete",
+      "date": "2027-04-11",
+      "time": "18:00",
+      "city": "Maastricht",
+      "venue": "Muziekgieterij",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "BEATLES Complete"
+      ],
+      "type": "gig",
+      "url": "https://muziekgieterij.nl/event/beatles-complete-2027-04-11/",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Muziekgieterij",
+      "curated": false,
+      "firstSeen": "2026-11-19",
       "lastVerified": "2026-11-19"
     },
     {
