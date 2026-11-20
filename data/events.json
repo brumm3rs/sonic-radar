@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-19T13:47:51+00:00",
+    "updatedAt": "2026-11-20T01:43:28+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -16,30 +16,6 @@
     ]
   },
   "events": [
-    {
-      "id": "scan-0cf4c8604833a",
-      "title": "mustbejohn / Chimer / only tears",
-      "date": "2026-11-19",
-      "time": "19:00",
-      "city": "Maastricht",
-      "venue": "Muziekgieterij",
-      "country": "NL",
-      "category": "rock",
-      "styles": [
-        "indie"
-      ],
-      "artists": [
-        "mustbejohn / Chimer / only tears"
-      ],
-      "type": "gig",
-      "url": "https://muziekgieterij.nl/event/mustbejohn-chimer-only-tears-2026-11-19/",
-      "status": "on-sale",
-      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
-      "source": "Muziekgieterij",
-      "curated": false,
-      "firstSeen": "2026-11-08",
-      "lastVerified": "2026-11-19"
-    },
     {
       "id": "scan-0f59e28e5cf2f",
       "title": "Indie Disko",
@@ -64,7 +40,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-15",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "scan-b37c2e70a7c70",
@@ -88,7 +64,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "scan-4709336ae51fe",
@@ -112,7 +88,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "altruism-label-night-onlynumbers-toxic-machinery-slvl-ush-2026-11-21",
@@ -142,7 +118,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "UNWIND",
       "why": "Onlynumbers, Toxic Machinery, SLVL and USH deliver the punishing industrial/hard-techno pressure you want from UNWIND.",
       "palette": "violet",
@@ -201,7 +177,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "she-past-away-2026-11-27",
@@ -253,7 +229,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "claydrum-nico-moreno-carla-schmitt-melvin-spix-2026-11-27",
@@ -280,7 +256,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "UNWIND",
       "why": "Nico Moreno’s peak-time, kick-heavy hard techno lands squarely in the UNWIND pressure zone.",
       "palette": "violet"
@@ -372,7 +348,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-04",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "scan-4a31ab6869859",
@@ -396,7 +372,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-04",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "hotline-lisa-korver-paige-tomlinson-2026-11-28",
@@ -424,7 +400,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "ARMAN JOHN",
       "why": "Bouncy trance/hard-house and high-energy club grooves. More playful and less punishing than the hard-techno nights.",
       "palette": "peach"
@@ -453,7 +429,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "HER NEW KNIFE",
       "why": "A softer dream-pop/indie detour if you like the melodic fog more than the distorted edges.",
       "palette": "silver"
@@ -481,7 +457,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "kadavar-aachen-2026-12-06",
@@ -646,7 +622,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "ARMAN JOHN",
       "why": "A dedicated trance / hard-house / groove night with the bouncing energy of Arman John’s club sets.",
       "palette": "peach"
@@ -707,7 +683,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "ARMAN JOHN",
       "why": "A looser crossover: Mall Grab leans house/techno rather than Arman John’s faster acid-trance sound.",
       "palette": "peach",
@@ -763,7 +739,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "scan-5c696c0c0c6a0",
@@ -811,7 +787,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "gallus-2027-01-28",
@@ -836,7 +812,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "PIXIES",
       "why": "Angular garage punk with direct, wiry live energy. A punchier fit for the Pixies side of your taste.",
       "palette": "cobalt"
@@ -865,7 +841,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "PIXIES",
       "why": "Baggy/alternative rock history and unruly guitars rather than shoegaze; adjacent to your classic alt-rock reference.",
       "palette": "cobalt"
@@ -892,7 +868,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-15",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "scan-ffd0f251466b8",
@@ -941,7 +917,7 @@
       "source": "Complex",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "bettie-serveert-2027-02-20",
@@ -1079,7 +1055,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "HER NEW KNIFE",
       "why": "Dreamy shoegaze guitar washes and melancholy; a prettier, less abrasive cousin of Her New Knife.",
       "palette": "silver"
@@ -1138,7 +1114,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "PIXIES",
       "why": "Restless post-punk, jagged guitar attacks and immediate garage-rock energy.",
       "palette": "cobalt"
@@ -1166,7 +1142,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-20",
       "fit": "PIXIES",
       "why": "Shapeshifting indie / alternative rock with unexpected changes in energy and structure.",
       "palette": "cobalt"
@@ -1195,7 +1171,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "black-box-revelation-2027-03-20",
@@ -1277,7 +1253,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "scan-5f0cf2ca180d3",
@@ -1301,7 +1277,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-19",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "scan-518f83cf06a0c",
@@ -1375,7 +1351,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-17",
-      "lastVerified": "2026-11-19"
+      "lastVerified": "2026-11-20"
     },
     {
       "id": "complex-festival-2027-2027-07-24",
