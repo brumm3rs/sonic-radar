@@ -3,7 +3,7 @@
     "name": "SONIC RADAR / THE NOISE INDEX",
     "origin": "Maastricht",
     "seededAt": "2026-11-02",
-    "updatedAt": "2026-11-20T13:45:57+00:00",
+    "updatedAt": "2026-11-21T01:45:11+00:00",
     "sourcesChecked": 3,
     "mode": "automated scan",
     "notes": "Curated cross-border starting feed checked against official venue/promoter announcements on 02 Nov 2026. NL, BE and DE events included. Prices and ticket status are snapshots; always recheck the original page.",
@@ -16,80 +16,6 @@
     ]
   },
   "events": [
-    {
-      "id": "scan-0f59e28e5cf2f",
-      "title": "Indie Disko",
-      "date": "2026-11-20",
-      "time": "19:30",
-      "city": "Maastricht",
-      "venue": "Muziekgieterij",
-      "country": "NL",
-      "category": "rock",
-      "styles": [
-        "post-punk",
-        "art rock",
-        "indie"
-      ],
-      "artists": [
-        "Indie Disko"
-      ],
-      "type": "gig",
-      "url": "https://muziekgieterij.nl/event/indie-disko-2026-11-20/",
-      "status": "on-sale",
-      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
-      "source": "Muziekgieterij",
-      "curated": false,
-      "firstSeen": "2026-11-15",
-      "lastVerified": "2026-11-20"
-    },
-    {
-      "id": "scan-b37c2e70a7c70",
-      "title": "Hiigo",
-      "date": "2026-11-20",
-      "time": "20:00",
-      "city": "Eindhoven",
-      "venue": "Effenaar",
-      "country": "NL",
-      "category": "rock",
-      "styles": [
-        "indie"
-      ],
-      "artists": [
-        "Hiigo"
-      ],
-      "type": "gig",
-      "url": "https://effenaar.nl/agenda/hiigo",
-      "status": "sold-out",
-      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
-      "source": "Effenaar",
-      "curated": false,
-      "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20"
-    },
-    {
-      "id": "scan-4709336ae51fe",
-      "title": "MEROL",
-      "date": "2026-11-20",
-      "time": "20:15",
-      "city": "Eindhoven",
-      "venue": "Effenaar",
-      "country": "NL",
-      "category": "techno",
-      "styles": [
-        "techno"
-      ],
-      "artists": [
-        "MEROL"
-      ],
-      "type": "club",
-      "url": "https://effenaar.nl/agenda/merol",
-      "status": "on-sale",
-      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
-      "source": "Effenaar",
-      "curated": false,
-      "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20"
-    },
     {
       "id": "altruism-label-night-onlynumbers-toxic-machinery-slvl-ush-2026-11-21",
       "title": "Altruism Label Night: Onlynumbers / Toxic Machinery / SLVL / USH",
@@ -118,7 +44,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "UNWIND",
       "why": "Onlynumbers, Toxic Machinery, SLVL and USH deliver the punishing industrial/hard-techno pressure you want from UNWIND.",
       "palette": "violet",
@@ -177,7 +103,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "she-past-away-2026-11-27",
@@ -229,7 +155,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "claydrum-nico-moreno-carla-schmitt-melvin-spix-2026-11-27",
@@ -256,7 +182,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "UNWIND",
       "why": "Nico Moreno’s peak-time, kick-heavy hard techno lands squarely in the UNWIND pressure zone.",
       "palette": "violet"
@@ -348,7 +274,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-04",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-4a31ab6869859",
@@ -372,7 +298,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-04",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "hotline-lisa-korver-paige-tomlinson-2026-11-28",
@@ -400,7 +326,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "ARMAN JOHN",
       "why": "Bouncy trance/hard-house and high-energy club grooves. More playful and less punishing than the hard-techno nights.",
       "palette": "peach"
@@ -429,7 +355,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "HER NEW KNIFE",
       "why": "A softer dream-pop/indie detour if you like the melodic fog more than the distorted edges.",
       "palette": "silver"
@@ -456,7 +382,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-20",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-7e5fdfd2b208c",
@@ -480,7 +406,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-20",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-742c4affd3c35",
@@ -505,7 +431,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "kadavar-aachen-2026-12-06",
@@ -670,7 +596,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "ARMAN JOHN",
       "why": "A dedicated trance / hard-house / groove night with the bouncing energy of Arman John’s club sets.",
       "palette": "peach"
@@ -697,7 +623,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-20",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "cowboyy-trix-2026-12-17",
@@ -755,7 +681,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "ARMAN JOHN",
       "why": "A looser crossover: Mall Grab leans house/techno rather than Arman John’s faster acid-trance sound.",
       "palette": "peach",
@@ -783,7 +709,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-20",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-173061384ce0c",
@@ -807,7 +733,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-20",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-38a9c46f0d4b4",
@@ -831,7 +757,55 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-20",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
+    },
+    {
+      "id": "scan-a486b6c7631e4",
+      "title": "The Dirty Daddies",
+      "date": "2027-01-08",
+      "time": "20:15",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "The Dirty Daddies"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/dirty-daddies-8jan27",
+      "status": "on-sale",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-21",
+      "lastVerified": "2026-11-21"
+    },
+    {
+      "id": "scan-e9a4dd950e96b",
+      "title": "The Dirty Daddies",
+      "date": "2027-01-09",
+      "time": "20:15",
+      "city": "Eindhoven",
+      "venue": "Effenaar",
+      "country": "NL",
+      "category": "rock",
+      "styles": [
+        "indie"
+      ],
+      "artists": [
+        "The Dirty Daddies"
+      ],
+      "type": "gig",
+      "url": "https://effenaar.nl/agenda/dirty-daddies-9jan27",
+      "status": "sold-out",
+      "note": "Matched from the official venue announcement; check the event page for the complete lineup.",
+      "source": "Effenaar",
+      "curated": false,
+      "firstSeen": "2026-11-21",
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "unwind-live-only-2027-01-09",
@@ -883,7 +857,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-5c696c0c0c6a0",
@@ -931,7 +905,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "gallus-2027-01-28",
@@ -956,7 +930,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "PIXIES",
       "why": "Angular garage punk with direct, wiry live energy. A punchier fit for the Pixies side of your taste.",
       "palette": "cobalt"
@@ -985,7 +959,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "PIXIES",
       "why": "Baggy/alternative rock history and unruly guitars rather than shoegaze; adjacent to your classic alt-rock reference.",
       "palette": "cobalt"
@@ -1012,7 +986,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-15",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-ffd0f251466b8",
@@ -1061,7 +1035,7 @@
       "source": "Complex",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "bettie-serveert-2027-02-20",
@@ -1199,7 +1173,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "HER NEW KNIFE",
       "why": "Dreamy shoegaze guitar washes and melancholy; a prettier, less abrasive cousin of Her New Knife.",
       "palette": "silver"
@@ -1258,7 +1232,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "PIXIES",
       "why": "Restless post-punk, jagged guitar attacks and immediate garage-rock energy.",
       "palette": "cobalt"
@@ -1286,7 +1260,7 @@
       "country": "NL",
       "curated": true,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-21",
       "fit": "PIXIES",
       "why": "Shapeshifting indie / alternative rock with unexpected changes in energy and structure.",
       "palette": "cobalt"
@@ -1315,7 +1289,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-07",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "black-box-revelation-2027-03-20",
@@ -1397,7 +1371,7 @@
       "source": "Effenaar",
       "curated": false,
       "firstSeen": "2026-11-02",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-5f0cf2ca180d3",
@@ -1421,7 +1395,7 @@
       "source": "Muziekgieterij",
       "curated": false,
       "firstSeen": "2026-11-19",
-      "lastVerified": "2026-11-20"
+      "lastVerified": "2026-11-21"
     },
     {
       "id": "scan-518f83cf06a0c",
